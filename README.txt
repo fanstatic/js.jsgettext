@@ -12,4 +12,3 @@ This library packages `jsgettext`_ for `fanstatic`_.
 This requires integration between your web framework and ``fanstatic``,
 and making sure that the original resources (shipped in the ``resources``
 directory in ``js.jsgettext``) are published to some URL.
-
