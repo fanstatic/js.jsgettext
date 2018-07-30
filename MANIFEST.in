@@ -1,0 +1,3 @@
+recursive-include js/jsgettext/resources *.*
+recursive-include js/jsgettext *.txt
+include *.txt
